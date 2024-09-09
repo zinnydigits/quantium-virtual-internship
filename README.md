@@ -1,5 +1,5 @@
 # Quantium Data Analytics Job Simulation on Forage - July 2024
-
+![certificate of completion](https://github.com/zinnydigits/quantium-virtual-internship/blob/main/quantium.png)
 ## Overview
 This repository contains the work completed during the Quantium Data Analytics Job Simulation on Forage in July 2024. The simulation focused on developing skills in data analytics and commercial insights for the data science team.
 
