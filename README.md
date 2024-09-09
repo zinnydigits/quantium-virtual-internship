@@ -3,8 +3,6 @@
 ## Overview
 This repository contains the work completed during the Quantium Data Analytics Job Simulation on Forage in July 2024. The simulation focused on developing skills in data analytics and commercial insights for the data science team.
 
-![Quantium Job Simulation](https://github.com/zinnydigits/quantiumforage/blob/main/totalsalesacrossstorestypes.png)
-
 ## Key Tasks and Achievements
 
 ### 1. Data Analytics and Commercial Insights
@@ -44,5 +42,7 @@ All uploaded files are located in the root directory of this repository:
 
 ## Conclusion
 The Quantium Data Analytics Job Simulation provided valuable hands-on experience in data analytics and commercial insights. The tasks completed and skills developed are instrumental in making data-driven decisions and providing strategic recommendations in a commercial context.
+
+![Quantium Job Simulation](https://github.com/zinnydigits/quantiumforage/blob/main/totalsalesacrossstorestypes.png)
 
 For any further information or detailed analysis, please refer to the individual reports and datasets used during the simulation.
